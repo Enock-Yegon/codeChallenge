@@ -1,17 +1,19 @@
 # Code Challenge
-# Has 3 Javascript files that performs tasks as follow :
+#### 28/11/2022
+#### By Enock
+
+# Project Description:
 >Program that displays grades from the marks entered by the user.
 >Program that reads the speed of a car and give differents outputs e.g. demerit points with changing speed.
 >Program that calculates the PAYE, NHIF, NSSF deductions and net salary from basic salary and employee benefits given.
-# Project setup
+
+# Project setup:
 >ensure node and npm installed.
 > used node to run the code e.g node speed.js in the vs code terminal.
 > if prompt doesn't work, run npm install prompt-sync in the terminal.
+
 # Author & License
-
-The MIT License (MIT)
-
-Copyright (c) .NET Foundation and Contributors
+Copyright (c) [2022] [Enock Yegon]
 
 All rights reserved.
 
